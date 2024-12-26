@@ -1,1 +1,1 @@
-"setting up repository for project"
+"Repository for Meta Data Engineering Capstone Project Code"

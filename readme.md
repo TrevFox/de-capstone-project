@@ -19,9 +19,9 @@ After that I created more useful Stored Procedures to help the restaurant with m
 
 The next task was to create some Data Visualizations in Tableau to illustrate sales and profits data as they relate to specific customers or cuisines, along with changes over time.
 
+![Table Reservation Code](Tableau_Charts.PNG)
 
-
-The final part of the project was to use MySQL-Connector-Python to setup a database client so Little Lemon is able to use a Python application in order to interact with the database. This included creating a cursor object to run queries on the database.
+The final part of the project was to use MySQL-Connector-Python to setup a database client so Little Lemon is able to use a Python application to interact with the database. This included creating a cursor object to query the database and retrieving the data from the cursor object.
 
 ![Database Client Connection](MySQL-Python-Database-Client-Setup.ipynb)
 
